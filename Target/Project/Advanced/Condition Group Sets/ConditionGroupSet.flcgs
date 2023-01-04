@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionGroupSet Comment="Condition Group Set">
+    <ConditionSection Name="Page 1">
+        <ConditionGroup Name="Group 1" DisplayType="CheckBoxes" />
+    </ConditionSection>
+</CatapultConditionGroupSet>
